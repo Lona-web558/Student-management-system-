@@ -430,7 +430,7 @@ int main(){
                 cout<<"WELCOME STUDENT\n";
                 cout<<"Enter your option\n";
                 cout<<"1. Register\n";
-                cout<<"2. Search Students \n";
+                cout<<"2. Search Application \n";
                 cout<<"3. Cancel Application \n";
                 cout<<"Enter any other key for exit\n\n\n";
                 while(1){
